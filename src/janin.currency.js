@@ -146,6 +146,7 @@ janin.currencies = [
     janin.currency.createCurrency ("MarteXcoin", 0x32, 0xb2, "6",    "T"    , "M8DSVG13j3qpNDRbuuUBh5juQmSd15wLXH"),
     janin.currency.createCurrency ("MasterDoge", 0x33, 0x8b, "5",    "M"    , "Mm4Xqy9FYZ8N1NJzuXCaJLZcw8o2cmVC7c"),
     janin.currency.createCurrency ("Mazacoin",   0x32, 0xe0, "8",    "a"    , "MLUXCv3GfNgmUSXc5Ek3ePaQ4cfsJwEXHa"),
+    janin.currency.createCurrency ("Mediterraneancoin",   0x33, 0xb3, "5",    "M"    , "MeDcoinLNQXQ4nDnj2dJ6odNKE3KJpFCzJ"),
     janin.currency.createCurrency ("Megacoin",   0x32, 0xb2, "6",    "T"    , "MPeVmJHvkXN3caneWCB5zGgtGHRRBSLmWd"),
     janin.currency.createCurrency ("MobiusCoin", 0x00, 0x80, "5",    "[LK]" , "1HKNrUR3BaFC8u4VMfnjCuXDPrYGh7jU8S"),
     janin.currency.createCurrency ("MonetaryUnit",0x0f,0x8f, "5",    "N"    , "7R6jCc1h3frSuCrmY87B4iVPzLsZKmkwV5"),
